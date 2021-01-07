@@ -1,0 +1,7 @@
+{
+  "name": "prebuildCapTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
