@@ -14,7 +14,6 @@ on:
 jobs:
   # This will build an IPA & Upload the artifact in iOS.zip
 
-  # 
   build-ios-test:
     runs-on: ubuntu-latest
     steps:
